@@ -1,4 +1,12 @@
-html {
+* {
     background-color:#262626;
     color: white;
+}
+h1 {
+    background-color: #3c3836;
+    color: #fbf1c7;
+    text-align: center;
+}
+.center {
+    text-align: center;
 }

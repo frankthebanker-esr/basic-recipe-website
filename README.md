@@ -2,7 +2,7 @@
 Basic recipe website with links to different recipes
 
 ## Project Overview
-This project will be my introduction to html and css. It will be a simple website that lists multiple recipes branching out into multiple webpages. It will consists of links, images and lists.
+This project will be my introduction to html and css. It will be a simple website that lists multiple recipes branching out into multiple webpages. It will consist of links, images and lists.
 
 ## Building Skills
 **There are multiple skills I want to build while doing this project:**

@@ -2,19 +2,23 @@
     background-color:#262626;
     color: white;
 }
+
 h1 {
     background-color: #3c3836;
     color: #fbf1c7;
     text-align: center;
 }
+
 a {
     font-size: 25px;
     text-decoration: none;
 }
+
 .center{
     list-style: none;
     text-align: center;
 }
+
 img {
     border: 5px solid black;
 }

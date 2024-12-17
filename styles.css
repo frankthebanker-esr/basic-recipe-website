@@ -12,5 +12,9 @@ a {
     text-decoration: none;
 }
 .center{
+    list-style: none;
     text-align: center;
+}
+img {
+    border: 5px solid black;
 }

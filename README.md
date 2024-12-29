@@ -13,6 +13,4 @@ This project will be my introduction to html and css. It will be a simple websit
 ## Future Plan
 **There are a few things I want to do add with this project.**
 - Add more recipes.
-- Style the website.
-- Make it easier on the eyes.
 - Add interactive features.

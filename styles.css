@@ -3,18 +3,15 @@ body {
     color: white;
 }
 
-h1 {
+h1, h2, h3 {
     background-color: #504945;
     color: #fbf1c7;
+    text-align: center
 }
 
 a {
-    padding: 8px;    
-    font-size: 25px;
-    line-height: 80px;
+    text-decoration: none;
     color: white;
-    background-color: #665c54;
-    border: 5px solid #1d2021;
 }
 
 .title {
@@ -23,12 +20,26 @@ a {
     color: #fbf1c7;
 }
 
-.center {
-    text-align: center;
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.item {
+    padding: 20px;
+    border: 2px solid #fbf1c7;
+    border-radius: 10px;
+    background-color: #504945;
+    font-weight: bold;
 }
 
 img {
+    display: block;
     border: 5px solid #1d2021;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .box {
